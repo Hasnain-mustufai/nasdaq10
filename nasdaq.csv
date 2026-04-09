@@ -1,1 +1,11 @@
-
+﻿symbole,prix,capitalisation_boursiere,beta,entreprise,devise,isin,industrie,sector,pays,nombre_employes,ville,date_introduction_bourse
+NVDA,182.08,4.42545E+12,2.335,NVIDIA Corporation,USD,US67066G1040,Semiconductors,Technology,US,36000,Santa Clara,1999-01-22
+AAPL,258.9,3.80529E+12,1.109,Apple Inc.,USD,US0378331005,Consumer Electronics,Technology,US,164000,Cupertino,1980-12-12
+GOOGL,317.32,3.83862E+12,1.128,Alphabet Inc.,USD,US02079K3059,Internet Content & Information,Communication Services,US,185719,Mountain View,2004-08-19
+MSFT,374.33,2.77964E+12,1.107,Microsoft Corporation,USD,US5949181045,Software - Infrastructure,Technology,US,228000,Redmond,1986-03-13
+AMZN,221.25,2.3751E+12,1.383,"Amazon.com, Inc.",USD,US0231351067,Specialty Retail,Consumer Cyclical,US,1560000,Seattle,1997-05-15
+META,612.42,1543906514075,1.309,"Meta Platforms, Inc.",USD,US30303M1027,Internet Content & Information,Communication Services,US,76834,Menlo Park,2012-05-18
+AVGO,350.63,1662432743434,1.253,Broadcom Inc.,USD,US11135F1012,Semiconductors,Technology,US,37000,Palo Alto,2009-08-06
+TSLA,343.25,1288022278508,1.915,"Tesla, Inc.",USD,US88160R1014,Auto - Manufacturers,Consumer Cyclical,US,125665,Austin,2010-06-29
+COST,1030.27,457082376310,0.978,Costco Wholesale Corporation,USD,US22160K1051,Discount Stores,Consumer Defensive,US,333000,Issaquah,1986-07-09
+PEP,154.8,211602461382,0.41,"PepsiCo, Inc.",USD,US7134481081,Beverages - Non-Alcoholic,Consumer Defensive,US,319000,Purchase,1972-06-01
